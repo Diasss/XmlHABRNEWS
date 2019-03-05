@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <f:note xmlns:f="http://cdn.idaprikol.ru/">
+    <f:message isLegal="yes">
+      если жалование &lt; 1000 оплеух
+    </f:message>
+  </f:note>
+  
+  <n:note  xmlns:n="http://cdn.idaprikol.ru/"
+           date="12/11/2007" 
+           isLegal="yes">
+    <n:message isLegal="yes">
+      если жалование &lt; 1000 оплеух
+    </n:message>
+  </n:note>
+</root>
